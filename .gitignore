@@ -1,0 +1,48 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python distribution packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment folders
+.venv/
+venv/
+ENV/
+env/
+# If using conda
+conda/
+
+# Rope project configuration
+.ropeproject/
+
+# Environment variables file
+.env
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS Finder
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
