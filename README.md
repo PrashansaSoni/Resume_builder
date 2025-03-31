@@ -40,10 +40,10 @@ Before starting, ensure you have the required dependencies installed. You can do
    After scraping, the data will be saved as an HTML file. Simply open the HTML file in a web browser to view the results.
 
    ```bash
-   open page.html #if using macos or linux
+   open index.html #if using macos or linux
    ```
 
 ### Files
 - `scrape_linkedin.py`: The main script to scrape LinkedIn profiles using Selenium.
-- `output.html`: The HTML file containing the scraped data.
+- `index.html`: The HTML file containing the scraped data.
 - `requirements.txt`: The file containing all the necessary dependencies.
