@@ -1,0 +1,101 @@
+{
+    "Name": "Adya Nandi",
+    "Headline": "| Aspiring Data Scientist | 5🌟 in Python @ HackerRank | Machine Learning Enthusiast | Proficient in MySQL |",
+    "Location": "Varanasi, Uttar Pradesh, India",
+    "About": "👩‍💻 Computer Science Student | Machine Learning Enthusiast | Streamlit Developer\n\nAs a passionate technologist, I thrive on exploring the ever-evolving landscape of data science, machine learning, and web development. With a solid foundation in Python and MySql I create impactful solutions that bridge technical complexity with real-world applications.\n\nI am proficient in building intuitive web apps using Streamlit, crafting seamless user experiences with HTML & CSS, and developing predictive models using advanced machine learning algorithms. My work often involves tackling complex datasets, automating workflows with Selenium, and ensuring scalability through effective database management.\n\nBeyond my technical expertise, I have worked on meaningful projects like:\n\nDiabetic Alert: A predictive tool combining 11 ML models for healthcare solutions.\nVisitor Management System for BHEL: Simplified operations and improved vendor analytics.\nDriven by curiosity and a desire to innovate, I stay updated on cutting-edge technologies and thrive in collaborative environments. I enjoy solving challenges that make a difference.\n\nLet’s connect to collaborate, share ideas, and embark on a journey of innovation together! 🌟",
+    "Experience": [
+        "Campus marketing officer\nCoding Ninjas 10X Club · Part-time\nJan 2025 - Present · 3 mos\nJan 2025 to Present · 3 mos\nHaryana, India · Remote\nOffer letter \nOffer letter",
+        "Software Engineer Intern\nBharat Heavy Electricals Limited · Internship\nJun 2024 - Aug 2024 · 3 mos\nJun 2024 to Aug 2024 · 3 mos\nVaranasi, Uttar Pradesh, India · On-site\nData Analysis, Data Visualization and +6 skills"
+    ],
+    "Education": [
+        {
+            "Institute": "Central University of Haryana, Mahendergarh",
+            "Duration": "",
+            "GPA_or_Percentage": "Grade: A"
+        }
+    ],
+    "Skills": [
+        "Algorithms",
+        "GitHub",
+        "Front-End Development",
+        "Amazon Web Services (AWS)",
+        "Data Science",
+        "Computer Science",
+        "Communication",
+        "Java",
+        "Analytical Skills",
+        "Problem Solving",
+        "English",
+        "Prompt Engineering",
+        "Large Language Models (LLM)",
+        "Artificial Intelligence (AI)",
+        "Matplotlib",
+        "Seaborn",
+        "Jupyter",
+        "EDA",
+        "Beautiful Soup",
+        "Selenium WebDriver",
+        "Selenium",
+        "Web Scraping",
+        "Computer Vision",
+        "Keras",
+        "Git",
+        "Canva",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "TypeScript",
+        "Tailwind CSS",
+        "Flask",
+        "JavaScript",
+        "Natural Language Processing (NLP)",
+        "Recurrent Neural Networks (RNN)",
+        "Artificial Neural Networks",
+        "Adobe Photoshop",
+        "Figma (Software)",
+        "Microsoft Excel",
+        "Generative AI",
+        "Deep Learning",
+        "Data Visualization",
+        "Diabetes Alert - Diabetes Insight Tool",
+        "Data Analysis",
+        "Analytics",
+        "Machine Learning",
+        "Pandas (Software)",
+        "Scikit-Learn",
+        "TensorFlow",
+        "SQLite",
+        "Streamlit",
+        "NumPy",
+        "C++",
+        "C (Programming Language)",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "CSS Flexbox",
+        "Python",
+        "Python(Basics)",
+        "Data Structures",
+        "Object-Oriented Programming (OOP)",
+        "SQL",
+        "Database Management System (DBMS)"
+    ],
+    "Projects": [
+        {
+            "Project Name": "Diabetes Alert - Diabetes Insight Tool",
+            "Duration": "Jul 2024 - Aug 2024\nJul 2024 - Aug 2024",
+            "Description": "Associated with Central University of Haryana, Mahendergarh\nAssociated with Central University of Haryana, Mahendergarh\nDeveloped a web-based diabetes prediction tool using Streamlit. The application utilizes machine learning models, including Logistic Regression, to provide accurate predictions based on user health metrics. Designed with a user-friendly interface, it features secure login for hospital admins, ensuring data confidentiality. The project integrates Python, Streamlit, and SQLite to manage data efficiently. This tool stands as a testament to the potential of AI in improving health outcomes, empowering users to take control of their well-being with timely insights.\n\nDeveloped a web-based diabetes prediction tool using Streamlit. The application utilizes machine learning models, including Logistic Regression, to provide accurate predictions based on user health metrics. Designed with a user-friendly interface, it features secure login for hospital admins, ensuring data confidentiality. The project integrates Python, Streamlit, and SQLite to manage data efficiently. This tool stands as a testament to the potential of AI in improving health outcomes, empowering users to take control of their well-being with timely insights.\nSkills: Machine Learning · Pandas (Software) · SQLite · Data Analysis · Streamlit · Python · TensorFlow · Analytics · Scikit-Learn · NumPy · Data Visualization\nMachine Learning · Pandas (Software) · SQLite · Data Analysis · Streamlit · Python · TensorFlow · Analytics · Scikit-Learn · NumPy · Data Visualization\nRegular users : \nRegular users :\nAdmin :\nAdmin :\nOther contributors\nOther contributors"
+        }
+    ],
+    "Certifications": [
+        {
+            "Certification": "Python(Basics)",
+            "Issued By": "Issued Aug 2024\nIssued Aug 2024, HackerRank\nHackerRank, Credential ID CCB2AA24CC0F\nCredential ID CCB2AA24CC0F",
+            "Date": "Issued Aug 2024\nIssued Aug 2024, Credential ID CCB2AA24CC0F\nCredential ID CCB2AA24CC0F"
+        }
+    ],
+    "Honors & Awards": [
+        {
+            "Honor/Award": "Nothing to see for now",
+            "Issued By": ""
+        }
+    ]
+}
