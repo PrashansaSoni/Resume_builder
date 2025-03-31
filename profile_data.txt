@@ -1,0 +1,65 @@
+{
+    "Name": "Prashansa Soni\n(She/Her)",
+    "Headline": "Python Developer || C++ || AI Enthusiast || Deep Learning & Generative AI Enthusiast || Database(MySQL)",
+    "Location": "Etawah, Uttar Pradesh, India",
+    "About": "Currently pursuing a B.Tech in Computer Science at Central University of Haryana, I am passionate about technology, problem-solving, and innovation. With a solid foundation in web development, I enjoy building intuitive and scalable applications.\n\nI am also enthusiastic about Artificial Intelligence and Machine Learning, exploring how AI can enhance efficiency and decision-making in various domains. Always eager to learn and adapt, I thrive on working with new technologies and tackling complex challenges.\n…see more",
+    "Experience": null,
+    "Education": [
+        {
+            "Institute": "Central University of Haryana, Mahendergarh",
+            "Duration": "Sep 2022 - Jul 2026",
+            "GPA_or_Percentage": ""
+        },
+        {
+            "Institute": "Theosophical Inter college",
+            "Duration": "",
+            "GPA_or_Percentage": "Grade: 94%"
+        }
+    ],
+    "Skills": [
+        "HTML",
+        "Web Development",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript",
+        "Node.js",
+        "MySQL",
+        "Svelte",
+        "Natural Language Processing (NLP)",
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI with Langchain",
+        "LangChain",
+        "Object-Oriented Programming (OOP)",
+        "Python (Programming Language)"
+    ],
+    "Projects": [
+        {
+            "Project Name": "Nothing to see for now",
+            "Duration": "",
+            "Description": ""
+        }
+    ],
+    "Certifications": [
+        {
+            "Certification": "Generative AI",
+            "Issued By": "LinkedIn\nLinkedIn, Issued Jun 2024\nIssued Jun 2024",
+            "Date": "Issued Jun 2024\nIssued Jun 2024"
+        },
+        {
+            "Certification": "Generative AI with Langchain",
+            "Issued By": "Credential ID UC-bf3eba2c-5160-4585-9601-1e9c10cc3bb0/\nCredential ID UC-bf3eba2c-5160-4585-9601-1e9c10cc3bb0/, Udemy\nUdemy",
+            "Date": "Credential ID UC-bf3eba2c-5160-4585-9601-1e9c10cc3bb0/\nCredential ID UC-bf3eba2c-5160-4585-9601-1e9c10cc3bb0/"
+        },
+        {
+            "Certification": "Web Development",
+            "Issued By": "Credential ID UC-6877a2ca-5550-48a4-aebd-2f2c8fcd2a6c\nCredential ID UC-6877a2ca-5550-48a4-aebd-2f2c8fcd2a6c, Udemy\nUdemy",
+            "Date": "Credential ID UC-6877a2ca-5550-48a4-aebd-2f2c8fcd2a6c\nCredential ID UC-6877a2ca-5550-48a4-aebd-2f2c8fcd2a6c"
+        }
+    ],
+    "Honors & Awards": [
+        {
+            "Honor/Award": "Nothing to see for now",
+            "Issued By": ""
+        }
+    ]
+}

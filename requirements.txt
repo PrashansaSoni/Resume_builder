@@ -1,0 +1,6 @@
+selenium
+streamlit
+jinja2
+langchain
+requests
+beautifulsoup4
