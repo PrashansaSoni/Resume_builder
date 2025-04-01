@@ -1,49 +1,48 @@
-## LinkedIn Profile Scraping Project
+# LinkedIn Profile Scraping Project
 
-This project is designed to scrape LinkedIn profiles using Selenium and display the data in a simple HTML format. The project leverages Jinja for template rendering and LangChain for advanced processing.
+**This project is under development.** It is hosted with GitHub Pages. The backend will be developed using FastAPI, and we are utilizing LangChain, Selenium, Jinja, and other tools for backend processing. The LLM calls will be made via third-party services (not Ollama). You can see the demo by clicking the link below. Feel free to contribute!
 
-### Team Members:
+[Demo Link](https://prashansasoni.github.io/Resume_builder/)
+
+## Team Members:
 - Adya Nandi
 - Amar
 - Prashansa Soni
 
-### Requirements
+## Requirements
 
 Before starting, ensure you have the required dependencies installed. You can do this by installing the packages from the `requirements.txt` file.
 
 ### Steps to get started:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/PrashansaSoni/Resume_builder.git
-   cd Resume_builder
-   ```
+1. **Clone the repository:**
 
-2. **Create a virtual environment** (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Note - On Windows, use venv\Scripts\activate
-   ```
+    ```bash
+    git clone https://github.com/PrashansaSoni/Resume_builder.git
+    cd Resume_builder/backend
+    ```
 
-3. **Install the dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. **Create a virtual environment (optional but recommended):**
 
-4. **Run the scraping script**:
-   You can start scraping LinkedIn profiles using the following command:
-   ```bash
-   python scrape_linkedin.py
-   ```
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows, use venv\Scripts\activate
+    ```
 
-5. **View the results**:
-   After scraping, the data will be saved as an HTML file. Simply open the HTML file in a web browser to view the results.
+3. **Install the dependencies:**
 
-   ```bash
-   open index.html #if using macos or linux
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-### Files
-- `scrape_linkedin.py`: The main script to scrape LinkedIn profiles using Selenium.
-- `index.html`: The HTML file containing the scraped data.
-- `requirements.txt`: The file containing all the necessary dependencies.
+4. **Run the scraping script:**
+
+    This step will be implemented later on, based on the backend(FastAPI/something else)
+
+5. **View the results:**
+
+    After scraping, the data will be saved as an HTML file. Simply open the `index.html` file in a web browser to view the results.
+
+---
+
+Let me know if this works better!
