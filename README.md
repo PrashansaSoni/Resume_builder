@@ -1,4 +1,4 @@
-# LinkedIn Profile Scraping Project
+# LinkedIn Profile Resume builder/ Github project recommedation system Project
 
 **This project is under development.** It is hosted with GitHub Pages. The backend will be developed using FastAPI, and we are utilizing LangChain, Selenium, Jinja, and other tools for backend processing. The LLM calls will be made via third-party services (not Ollama). You can see the demo by clicking the link below. Feel free to contribute!
 
