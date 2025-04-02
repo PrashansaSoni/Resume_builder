@@ -35,7 +35,7 @@ Before starting, ensure you have the required dependencies installed. You can do
     pip install -r requirements.txt
     ```
 
-4. **Run the scraping script:**
+4. **Run the backend script in the backend server:**
 
     This step will be implemented later on, based on the backend(FastAPI/something else)
 
