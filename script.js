@@ -16,7 +16,7 @@ function fetchProfile(platform) {
     errorDiv.textContent =
       "Github implementation in progress..., will be done soon";
     errorDiv.style.display = "block";
-
+    function
     return;
   }
   loading.style.display = "block";
