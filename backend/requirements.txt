@@ -12,3 +12,5 @@ langchain-groq
 fastapi
 uvicorn
 socket
+langchain_ollama
+dotenv

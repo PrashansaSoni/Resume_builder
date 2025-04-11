@@ -1,7 +1,7 @@
 import langchain
 from typing_extensions import Literal, TypedDict
 from pydantic import BaseModel, Field
-from langchain_ollama import ChatOllama
+#from langchain_ollama import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
 import json
 import markdown
