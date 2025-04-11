@@ -1,4 +1,32 @@
-function fetchProfile(platform) {
+async function fetchAdvice(urlInput) {
+  const output = document.getElementById("resumeOutput");
+  const loading = document.getElementById("loading");
+  const errorDiv = document.getElementById("error");
+
+  errorDiv.style.display = "none";
+  output.innerHTML = "";
+  const resFunc = async () => {
+    try {
+      // Bad practice never add ur url like this, i will remove this once the job is done
+      const url = `http://139.59.24.125:8000/display?name=${encodeURIComponent(urlInput)}`;
+
+      const res = await fetch(url);
+      if (res.ok) {
+        const jsonRes = await res.json();
+        // console.log(jsonRes);
+        output.innerHTML = jsonRes;
+      }
+      console.log("error getting data");
+    } catch (e) {
+      console.log(e);
+    }
+  };
+  await resFunc();
+  loading.style.display = "block";
+  console.log(urlInput);
+}
+
+async function fetchProfile(platform) {
   const urlInput = document.getElementById("profileUrl").value;
   const loading = document.getElementById("loading");
   const errorDiv = document.getElementById("error");
@@ -12,22 +40,25 @@ function fetchProfile(platform) {
     errorDiv.style.display = "block";
     return;
   }
-  if (platform == "github") {
-    errorDiv.textContent =
-      "Github implementation in progress..., will be done soon";
+
+  if (platform === "github") {
+    errorDiv.textContent = "Fetching info from your Github account";
     errorDiv.style.display = "block";
-    function
+    await fetchAdvice(urlInput);
     return;
   }
-  loading.style.display = "block";
 
-  setTimeout(() => {
+  loading.style.display = "block";
+  if (platform == "linkedin") {
+    await new Promise((resolve) => setTimeout(resolve, 1500));
+
     loading.style.display = "none";
-    generateResume(fakeData);
-  }, 1500);
+
+    await generateResume(fakeData);
+  }
 }
 
-function generateResume(data) {
+async function generateResume(data) {
   const output = document.getElementById("resumeOutput");
   output.innerHTML = "";
 
@@ -249,19 +280,3 @@ const fakeData = {
     },
   ],
 };
-
-function fetchAdvice() {
-  const urlInput = document.getElementById("profileUrl").value;
-  const loading = document.getElementById("loading");
-  const errorDiv = document.getElementById("error");
-  const output = document.getElementById("resumeOutput");
-  errorDiv.style.display = "none";
-  output.innerHTML = "";
-
-  if (!urlInput) {
-    errorDiv.textContent = "Please enter a valid github profile URL";
-    errorDiv.style.display = "block";
-    return;
-  }
-  loading.style.display = "block";
-}

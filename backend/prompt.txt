@@ -1,0 +1,38 @@
+Hi 👋, I’m Prashansa Soni
+I am passionate about learning and growing in the fields of Artificial
+Intelligence (AI), Machine Learning (ML), Web Development, and Cloud
+Computing. I constantly seek opportunities to expand my knowledge, stay
+updated with emerging trends, and apply my skills to build scalable,
+intelligent, and efficient solutions. With a strong problem-solving
+mindset, I enjoy experimenting with new tools, frameworks, and
+methodologies to create impactful and future-ready applications.
+- 🌱 I’m currently learning AI/ML
+
+- 🤝 I’m looking for Internships/Job
+
+- 👨‍💻 Portfolio Click here
+
+- 📫 Email prashansasoni534@gmail.com
+
+- 📄 Resume Click here
+
+Connect with me:
+Languages and Tools:
+Social/linked-in-alt
+Social/instagram
+Social/leet-code
+amazonwebservices/amazonwebservices-original-wordmark
+c/c-original
+cplusplus/cplusplus-original
+css3/css3-original-wordmark
+docker/docker-original-wordmark
+express/express-original-wordmark
+pocoo_flask/pocoo_flask-icon
+html5/html5-original-wordmark
+javascript/javascript-original
+mongodb/mongodb-original-wordmark
+mysql/mysql-original-wordmark
+python/python-original
+pytorch/pytorch-icon
+05/Scikit_learn_logo_small
+1b/Svelte_Logo
