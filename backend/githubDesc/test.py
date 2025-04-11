@@ -19,6 +19,7 @@ def langFunction():
         max_tokens=None,
         timeout=None,
         max_retries=2,
+        api_key=groq_api_key
     )
     # For storing the contents of the user
     with open("./githubDesc/prompt.txt", "r") as file:
