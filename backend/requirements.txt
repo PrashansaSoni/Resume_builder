@@ -4,3 +4,11 @@ jinja2
 langchain
 requests
 beautifulsoup4
+markdown
+json
+pydantic
+dotenv
+langchain-groq
+fastapi
+uvicorn
+socket

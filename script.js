@@ -16,6 +16,7 @@ function fetchProfile(platform) {
     errorDiv.textContent =
       "Github implementation in progress..., will be done soon";
     errorDiv.style.display = "block";
+
     return;
   }
   loading.style.display = "block";
@@ -248,3 +249,19 @@ const fakeData = {
     },
   ],
 };
+
+function fetchAdvice() {
+  const urlInput = document.getElementById("profileUrl").value;
+  const loading = document.getElementById("loading");
+  const errorDiv = document.getElementById("error");
+  const output = document.getElementById("resumeOutput");
+  errorDiv.style.display = "none";
+  output.innerHTML = "";
+
+  if (!urlInput) {
+    errorDiv.textContent = "Please enter a valid github profile URL";
+    errorDiv.style.display = "block";
+    return;
+  }
+  loading.style.display = "block";
+}
