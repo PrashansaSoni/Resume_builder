@@ -8,7 +8,7 @@ async function fetchAdvice(urlInput) {
   const resFunc = async () => {
     try {
       // Bad practice never add ur url like this, i will remove this once the job is done
-      const url = `http://139.59.24.125:8000/display?name=${encodeURIComponent(urlInput)}`;
+      const url = `http://localhost:8001/display?name=${encodeURIComponent(urlInput)}`;
 
       const res = await fetch(url);
       if (res.ok) {
