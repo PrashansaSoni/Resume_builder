@@ -4,6 +4,12 @@
 
 [Demo Link](https://prashansasoni.github.io/Resume_builder/)
 
+## Technologies Used in GitHub Profile Analyzer
+* Bash (Repository Cloning)
+* Python (Backend Server using Langchain, transitioning to Langgraph later)
+* JavaScript (Frontend)
+* Docker (To be implemented for isolation and security)
+
 ## Team Members:
 - Adya Nandi
 - Amar
@@ -58,12 +64,6 @@ This project analyzes a GitHub user's repositories to provide insights about the
 3. **Data Processing:** The repository data is sent to a Langchain-based backend server for analysis.
 4. **Display Output:** The processed data is displayed on the frontend, highlighting the user's key interests, primary languages, and noteworthy projects.
 
-## Technologies Used
-
-* Bash (Repository Cloning)
-* Python (Backend Server using Langchain, transitioning to Langgraph later)
-* JavaScript (Frontend)
-* Docker (To be implemented for isolation and security)
 
 
 ## Future Improvements
